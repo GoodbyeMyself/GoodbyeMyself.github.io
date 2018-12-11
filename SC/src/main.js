@@ -6,6 +6,7 @@ import store from './store/index.js';
 import ajax from '_@/js/ajax';
 import { storage } from '_@/js/utils';
 import i18n from './language/index';
+import VueLazyload from 'vue-lazyload';
 
 import '_@/styles/element-ui.scss';
 import '_@/styles/reset.css';
@@ -16,6 +17,12 @@ import animated from 'animate.css';
 
 Vue.use(ElementUI);
 Vue.use(animated);
+
+Vue.use(VueLazyload, {
+	preLoad: 1.3,
+	loading: '../static/lib/loading.gif',
+	attempt: 2
+});
 
 Vue.config.productionTip = false;
 Vue.prototype.$ajax = ajax;

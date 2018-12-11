@@ -26,7 +26,7 @@
 						<div class="grid-content" @click="openUrl(item.urlAdress)">
 							<div class='webName' :title='item.name'>{{ item.name }}</div>
 							<div class='logoWamp'>
-								<img :src='require("../../../assets/images/container/url/"+ item.logo +".png")' alt="">
+								<img v-lazy='require("../../../assets/images/container/url/"+ item.logo +".png")' alt="">
 							</div>
 						</div>
 					</el-col>
