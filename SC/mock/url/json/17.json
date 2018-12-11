@@ -1,0 +1,85 @@
+[{
+    "urlAdress": "https://www.zybuluo.com/mdeditor",
+    "name": "Markdown编辑器",
+    "Webdescription": "",
+    "logo": "markdown",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://naotu.baidu.com/",
+    "name": "百度脑图",
+    "Webdescription": "",
+    "logo": "baidunaotu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.yuque.com/",
+    "name": "语雀-写文档就用语雀",
+    "Webdescription": "",
+    "logo": "yuque",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://mubu.com/",
+    "name": "幕布-极简大纲笔记 | 一键生成思维导图",
+    "Webdescription": "",
+    "logo": "mubu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://shimo.im/",
+    "name": "石墨文档",
+    "Webdescription": "",
+    "logo": "shimo",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.tubiaoxiu.com/",
+    "name": "图表秀-在线图标设计工具",
+    "Webdescription": "",
+    "logo": "chart",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.gfxaa.com/",
+    "name": "顶尖PPT模板",
+    "Webdescription": "",
+    "logo": "pptmodel",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://doc.bangboss.com/",
+    "name": "帮Boss-企业文档创作、协同和分享工具",
+    "Webdescription": "",
+    "logo": "helpBoss",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://smallpdf.com/cn",
+    "name": "Smallpdf-轻松玩转PDF",
+    "Webdescription": "",
+    "logo": "pdfTool",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.islide.cc/",
+    "name": "iSlide-让ppt设计简单起来",
+    "Webdescription": "",
+    "logo": "islide",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.processon.com/",
+    "name": "Processon-免费在线作图，实时协作",
+    "Webdescription": "",
+    "logo": "processon",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://modao.cc/",
+    "name": "墨刀-强大易用的原型设计与协同工具",
+    "Webdescription": "",
+    "logo": "modao",
+    "note": "通用密码",
+    "group": ""
+}]

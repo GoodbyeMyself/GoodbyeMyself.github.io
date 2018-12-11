@@ -1,0 +1,36 @@
+[{
+    "urlAdress": "https://ke.youdao.com/",
+    "name": "有道精品课",
+    "Webdescription": "",
+    "logo": "youdaojingpin",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://www.icourse163.org/",
+    "name": "中国大学MOOC",
+    "Webdescription": "",
+    "logo": "mooc",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://huke88.com/",
+    "name": "虎课网",
+    "Webdescription": "",
+    "logo": "huke",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://www.imooc.com/",
+    "name": "慕课网",
+    "Webdescription": "",
+    "logo": "muke",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://ke.qq.com/",
+    "name": "腾讯课堂",
+    "Webdescription": "",
+    "logo": "TencentClass",
+    "note": "",
+    "group": ""
+}]

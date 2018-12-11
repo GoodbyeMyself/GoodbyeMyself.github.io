@@ -1,0 +1,29 @@
+[{
+    "urlAdress": "http://10.12.2.27:8080/profile/login",
+    "name": "Mingle-开发进度管理",
+    "Webdescription": "",
+    "logo": "mingle",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://192.168.210.120/portal/app/mockapp/login.jsp?lrid=1&tdsourcetag=s_pctim_aiomsg",
+    "name": "Nc-财务报销",
+    "Webdescription": "",
+    "logo": "nc",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://n.seentao.com/login.html",
+    "name": "工时管理",
+    "Webdescription": "",
+    "logo": "worktime",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://ec.yonyoucloud.com/",
+    "name": "用友集团-友空间",
+    "Webdescription": "",
+    "logo": "yonyoucloud",
+    "note": "通用密码",
+    "group": ""
+}]

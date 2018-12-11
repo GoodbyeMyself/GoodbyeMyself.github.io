@@ -1,0 +1,113 @@
+[{
+    "urlAdress": "https://developers.weixin.qq.com/miniprogram/dev/#%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%A8%8B%E5%BA%8F",
+    "name": "微信小程序",
+    "Webdescription": "",
+    "logo": "xiaochengxu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://open.weixin.qq.com/cgi-bin/index?t=home/index&lang=zh_CN",
+    "name": "微信开发者平台",
+    "Webdescription": "",
+    "logo": "openwechat",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://mp.weixin.qq.com/?token=&lang=zh_CN",
+    "name": "微信公众平台",
+    "Webdescription": "",
+    "logo": "mpwechat",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.weimob.com/",
+    "name": "Weimob 微盟",
+    "Webdescription": "",
+    "logo": "weimob",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://segmentfault.com/a/1190000015735755",
+    "name": "微信支付 爬坑之路",
+    "Webdescription": "",
+    "logo": "wechatpay",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://segmentfault.com/a/1190000016039298",
+    "name": "微信小程序动态生成海报并分享",
+    "Webdescription": "",
+    "logo": "wechatxiaochengxu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.cnblogs.com/yzw23333/p/8036765.html",
+    "name": "微信开放平台PC端扫码登录功能总结",
+    "Webdescription": "",
+    "logo": "wechatpclogin",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/antvis/f2-canvas",
+    "name": "微信小程序F2图表组件",
+    "Webdescription": "",
+    "logo": "xiaochengxuF2",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/ecomfe/echarts-for-weixin",
+    "name": "Echarts-微信小程序",
+    "Webdescription": "",
+    "logo": "xiaochengxuEcharts",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/xiaobei666/weixin-xiaochengxu666-info",
+    "name": "微信小程序框架汇总",
+    "Webdescription": "",
+    "logo": "xiaochengxulist",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://gitee.com/xpmjs/xpmjs",
+    "name": "XpmJS - 小程序云端增强 SDK",
+    "Webdescription": "",
+    "logo": "Xmpjs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://youzan.github.io/vant-weapp/#/intro",
+    "name": "Vant Weapp轻量、可靠的小程序 UI 组件库",
+    "Webdescription": "",
+    "logo": "vant",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://tencent.github.io/wepy/",
+    "name": "WePY-让小程序支持组件化开发的框架",
+    "Webdescription": "",
+    "logo": "WePY",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.dingdone.com/",
+    "name": "叮当应用-一键创建小程序",
+    "Webdescription": "",
+    "logo": "dingdone",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://vue.ydui.org/",
+    "name": "一只基于Vue2.x的移动端&微信UI",
+    "Webdescription": "",
+    "logo": "YDUI",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://weui.io/",
+    "name": "WeUI 是一套同微信原生视觉体验一致的基础样式库",
+    "Webdescription": "",
+    "logo": "WeUI",
+    "note": "通用密码",
+    "group": ""
+}]

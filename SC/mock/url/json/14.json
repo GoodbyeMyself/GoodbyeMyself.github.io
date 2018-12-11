@@ -1,0 +1,36 @@
+[{
+    "urlAdress": "https://note.youdao.com",
+    "name": "有道云协作",
+    "Webdescription": "",
+    "logo": "youdaoyunxiezuo",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://slack.com/",
+    "name": "Slack-协作平台",
+    "Webdescription": "",
+    "logo": "slack",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://tower.im/",
+    "name": "Tower 协作",
+    "Webdescription": "",
+    "logo": "tower",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.teambition.com/",
+    "name": "Teambition",
+    "Webdescription": "",
+    "logo": "teambition",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://coding.net/",
+    "name": "Coding 是一个面向开发者的云端开发平台，提供 Git/SVN 代码托管、任务管理、在线 WebIDE、Cloud Studio、开发协作、文件管理、Wiki 管理、提供个人服务及企业版本的服务",
+    "Webdescription": "",
+    "logo": "coading",
+    "note": "通用密码",
+    "group": ""
+}]

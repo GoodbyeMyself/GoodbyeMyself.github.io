@@ -1,0 +1,16 @@
+/* teacher style reset */
+.Layout{
+	.el-menu{
+		border-right:none;
+	}
+	.el-submenu {
+		.el-menu-item {
+			padding-left: 50px!important;
+		}
+	}
+	.el-submenu__title{
+		.iconfont{
+			margin-right: 7px;
+		}
+	}
+} 

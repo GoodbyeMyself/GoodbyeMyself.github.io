@@ -1,0 +1,50 @@
+[{
+    "urlAdress": "https://www.shenjianshou.cn/index.php?r=market/productList&type=api",
+    "name": "Api-集合",
+    "Webdescription": "",
+    "logo": "api",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://apizza.net/",
+    "name": "Apizza-极客专属的api协作管理工具",
+    "Webdescription": "",
+    "logo": "apizza",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://api.mob.com/#",
+    "name": "Mobapi-为开发者提供多种数据及API SERVICE",
+    "Webdescription": "",
+    "logo": "mobapi",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://xapi.smaty.net/",
+    "name": "xApi Manager-哆啦接口管理平台",
+    "Webdescription": "",
+    "logo": "xApi",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://bird.ioliu.cn/#interface",
+    "name": "远程数据接口代理服务",
+    "Webdescription": "",
+    "logo": "JsonBird",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://connect.qq.com/index.html",
+    "name": "QQ互联 sdk",
+    "Webdescription": "",
+    "logo": "qqsdk",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.juhe.cn/",
+    "name": "聚合数据",
+    "Webdescription": "",
+    "logo": "juhe",
+    "note": "通用密码",
+    "group": ""
+}]

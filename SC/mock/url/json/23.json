@@ -1,0 +1,169 @@
+[{
+    "urlAdress": "https://cn.vuejs.org/",
+    "name": "Vue.js",
+    "Webdescription": "",
+    "logo": "vuejs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://element-cn.eleme.io/#/zh-CN",
+    "name": "Element.ui 为vue准备的UI框架",
+    "Webdescription": "",
+    "logo": "element",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.iviewui.com/",
+    "name": "iView 一套基于 Vue.js 的高质量 UI 组件库",
+    "Webdescription": "",
+    "logo": "iView",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://mint-ui.github.io/#!/zh-cn",
+    "name": "Mint UI 基于 Vue.js 的移动端组件库",
+    "Webdescription": "",
+    "logo": "MintUi",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/vuejs",
+    "name": "Vue - Git",
+    "Webdescription": "",
+    "logo": "vuegit",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://vuex.vuejs.org/zh/",
+    "name": "Vuex 状态管理",
+    "Webdescription": "",
+    "logo": "vuex",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://router.vuejs.org/zh/",
+    "name": "Vue-Router 路由管理",
+    "Webdescription": "",
+    "logo": "vue-router",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://vuetifyjs.com/zh-Hans",
+    "name": "Vuetify 语义化组件库",
+    "Webdescription": "",
+    "logo": "Vuetify",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://nuxtjs.org/",
+    "name": "Nuxt.js  是一个将vue应用转为服务端渲染的框架",
+    "Webdescription": "",
+    "logo": "NUXT",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://zulko.github.io/eaglejs-demo/#/",
+    "name": "Eagle.js 是一个用于制作基于 Web 幻灯片的 Vue.js 框架",
+    "Webdescription": "",
+    "logo": "eagle",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/qidaizhe11/element-pro",
+    "name": "Vue版Ant Design pro",
+    "Webdescription": "",
+    "logo": "eleUIpro",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://didi.github.io/cube-ui/#/zh-CN",
+    "name": "Cube UI 基于 Vue.js 实现的精致移动端组件库",
+    "Webdescription": "",
+    "logo": "cube",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://getvum.com/header/",
+    "name": "Vum 基于 Vue.js 实现的精致移动端组件库",
+    "Webdescription": "",
+    "logo": "vum",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://chenz24.github.io/vue-blu/#/",
+    "name": "Vue-blu 是基于Vuejs和Bulma开发的开源UI组件库",
+    "Webdescription": "",
+    "logo": "vue-blu",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://uiv.wxsm.space/",
+    "name": "Bootstrap 3 Components implemented by Vue 2.",
+    "Webdescription": "",
+    "logo": "uiv",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://vux.li/#",
+    "name": "Vux 基于vue的移动端组件库",
+    "Webdescription": "",
+    "logo": "vux",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "http://weex.apache.org/cn/",
+    "name": "weex 一套构建高性能、可扩展的原生应用跨平台开发方案",
+    "Webdescription": "",
+    "logo": "weex",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/OYsun/VueStar",
+    "name": "VueStar 点赞效果",
+    "Webdescription": "",
+    "logo": "vuestar",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/SortableJS/Vue.Draggable",
+    "name": "Vue-sortable 拖拽插件",
+    "Webdescription": "",
+    "logo": "Sortable",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/hilongjw/vue-video",
+    "name": "Vue-video 视频查看插件",
+    "Webdescription": "",
+    "logo": "vue-video",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://photoswipe.com/",
+    "name": "Vue-photoSwipe 图片查看插件",
+    "Webdescription": "",
+    "logo": "vue-photoSwipe",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/opendigg/awesome-github-vue",
+    "name": "Vue相关开源项目库汇总",
+    "Webdescription": "",
+    "logo": "githubVUE",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.vue-js.com/",
+    "name": "Vue.js专业中文社区",
+    "Webdescription": "",
+    "logo": "vueCNhome",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://segmentfault.com/a/1190000015861382",
+    "name": "Vue-面试题",
+    "Webdescription": "",
+    "logo": "vue_mianshiti",
+    "note": "通用密码",
+    "group": ""
+}]

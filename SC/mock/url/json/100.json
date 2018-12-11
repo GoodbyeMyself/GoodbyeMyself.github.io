@@ -1,0 +1,43 @@
+[{
+    "urlAdress": "https://marketplace.visualstudio.com/vscode",
+    "name": "VS code插件库",
+    "Webdescription": "",
+    "logo": "vscodeTools",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://www.bootcdn.cn/",
+    "name": "Bootcdn-稳定、快速、免费的前端开源项目 CDN 加速服务",
+    "Webdescription": "",
+    "logo": "cdn",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://weflow.io/",
+    "name": "Webflow-一个高效、强大、跨平台的前端开发工作流工具",
+    "Webdescription": "",
+    "logo": "webflow",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "http://fis.baidu.com/",
+    "name": "FIS3 , 为你定制的前端工程构建工具",
+    "Webdescription": "",
+    "logo": "FIS3",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "http://www.dcloud.io/mui.html",
+    "name": "DCLOUD 为开发者而生",
+    "Webdescription": "",
+    "logo": "dcloud",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "http://www.appcan.cn/",
+    "name": "Appcan 移动云平台",
+    "Webdescription": "",
+    "logo": "appcan",
+    "note": "",
+    "group": ""
+}]

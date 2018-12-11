@@ -1,0 +1,92 @@
+[{
+    "urlAdress": "https://yq.aliyun.com/?spm=a2c4e.11155573.minheadermenu.2.a3b375c6VmOgsC",
+    "name": "阿里-云栖社区",
+    "Webdescription": "",
+    "logo": "yunqishequ",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.pythontab.com/",
+    "name": "python-中文开发者社区",
+    "Webdescription": "",
+    "logo": "pythonCN",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.css88.com/",
+    "name": "WEB-前端开发",
+    "Webdescription": "",
+    "logo": "css88",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://jspang.com/",
+    "name": "技术胖博客",
+    "Webdescription": "",
+    "logo": "jishupang",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.oschina.net/",
+    "name": "开源中国社区",
+    "Webdescription": "",
+    "logo": "osc",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://cnodejs.org/",
+    "name": "Cnode node.js专业中文社区",
+    "Webdescription": "",
+    "logo": "cnode",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://polymer-zh.cn/",
+    "name": "Polymer 中文社区",
+    "Webdescription": "",
+    "logo": "polymer",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://segmentfault.com/",
+    "name": "SegmentFault",
+    "Webdescription": "",
+    "logo": "sf",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://gitee.com/",
+    "name": "码云Gitee - 开放中国git代码托管平台",
+    "Webdescription": "",
+    "logo": "mayun",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.awesomes.cn/",
+    "name": "Awesomes",
+    "Webdescription": "",
+    "logo": "awesomes",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.jianshu.com/",
+    "name": "简书",
+    "Webdescription": "",
+    "logo": "jianshu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.open-open.com/lib/",
+    "name": "开源大全",
+    "Webdescription": "",
+    "logo": "open",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.cnblogs.com/",
+    "name": "博客园",
+    "Webdescription": "",
+    "logo": "bokeyuan",
+    "note": "通用密码",
+    "group": ""
+}]

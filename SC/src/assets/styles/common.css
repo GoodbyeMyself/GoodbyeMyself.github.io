@@ -1,0 +1,67 @@
+@import "./var.scss";
+
+body {
+	font-size: 14px;
+	background-color: #F5F5F5;
+	font-family: Microsoft Yahei,sans-serif;
+}
+
+html, body, #app {
+	height: 100%;
+}
+
+body {
+	color: #333;
+}
+
+.clear{
+	zoom: 1;
+}
+
+.clear::after {
+	content: ".";
+	display: block;
+	clear: both;
+	height: 0;
+	overflow: hidden;
+}
+
+.left,.fl {
+	float: left;
+}
+
+.right,.fr {
+	float: right;
+}
+
+.tr {
+    text-align: right;
+}
+
+.tc {
+    text-align: center;
+}
+
+.tl {
+    text-align: left;
+}
+
+.dli{
+	display: inline-block;
+}
+
+.cursor{
+	cursor:pointer;
+}
+
+.hidden{
+    overflow: hidden;
+}
+
+.relative{
+    position: relative;
+}
+
+.el-scrollbar__wrap{
+	overflow-x: hidden;
+}

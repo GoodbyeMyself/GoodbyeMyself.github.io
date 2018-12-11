@@ -1,0 +1,50 @@
+[{
+    "urlAdress": "https://www.baidu.com/",
+    "name": "百度一下,你就知道",
+    "Webdescription": "百度一下,你就知道",
+    "logo": "baidu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://developer.baidu.com/",
+    "name": "百度开发者中心",
+    "Webdescription": "",
+    "logo": "baidudevolper",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://github.com/baidu",
+    "name": "百度 Git",
+    "Webdescription": "",
+    "logo": "baidugit",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://ai.baidu.com/paddlepaddle",
+    "name": "Paddlepaddle 训练营",
+    "Webdescription": "",
+    "logo": "paddlepaddle",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://lbsyun.baidu.com/index.php?title=%E9%A6%96%E9%A1%B5",
+    "name": "百度地图 开放平台",
+    "Webdescription": "",
+    "logo": "baidumap",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://cloud.baidu.com/",
+    "name": "百度云",
+    "Webdescription": "",
+    "logo": "baiducloud",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://h5.bce.baidu.com/",
+    "name": "百度H5",
+    "Webdescription": "",
+    "logo": "baiduh5",
+    "note": "通用密码",
+    "group": ""
+}]

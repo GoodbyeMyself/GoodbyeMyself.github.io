@@ -1,0 +1,64 @@
+[{
+    "urlAdress": "https://github.com/standard/standard/blob/master/docs/RULES-zhcn.md",
+    "name": "Es-lint校验规则",
+    "Webdescription": "",
+    "logo": "eslint",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://momentjs.cn/",
+    "name": "Moment.js 时间处理类库",
+    "Webdescription": "",
+    "logo": "Moment",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://hero-patterns.lowmess.com/",
+    "name": "Patterns.js 纹理背景库",
+    "Webdescription": "",
+    "logo": "patterns",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://lab.ejci.net/favico.js/",
+    "name": "Favico.js 动态的favicon",
+    "Webdescription": "",
+    "logo": "favico",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://threejs.org/",
+    "name": "Threejs 3D效果",
+    "Webdescription": "",
+    "logo": "threejs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://mockjs.com/",
+    "name": "Mock.js 数据模拟",
+    "Webdescription": "",
+    "logo": "mock",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://felicegattuso.com/projects/datedropper/",
+    "name": "Datedropper 好看的日历插件",
+    "Webdescription": "",
+    "logo": "datedropper",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://bitshadow.github.io/iconate/",
+    "name": "Iconate.js 图标转换效果js",
+    "Webdescription": "",
+    "logo": "iconate",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://atomiks.github.io/tippyjs/",
+    "name": "Tippy.js-tootip图标转换插件",
+    "Webdescription": "",
+    "logo": "tippy",
+    "note": "通用密码",
+    "group": ""
+}]

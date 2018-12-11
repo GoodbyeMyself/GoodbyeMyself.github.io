@@ -1,0 +1,15 @@
+[{
+    "urlAdress": "https://www.baidu.com/",
+    "name": "百度一下,你就知道53",
+    "Webdescription": "百度一下,你就知道",
+    "logo": "baidu",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://fanyi.youdao.com/",
+    "name": "有道翻译",
+    "Webdescription": "有道翻译",
+    "logo": "youdao",
+    "note": "通用密码",
+    "group": ""
+}]

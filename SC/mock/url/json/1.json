@@ -1,0 +1,22 @@
+[{
+    "urlAdress": "https://jsfiddle.net/",
+    "name": "JSfiddle代码运行",
+    "Webdescription": "",
+    "logo": "fiddle",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.getpostman.com/",
+    "name": "POSTMAN-接口测试工具",
+    "Webdescription": "",
+    "logo": "postman",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.apicloud.com/",
+    "name": "ApiCloud 围绕企业业务需求，给所有角色提供工具",
+    "Webdescription": "",
+    "logo": "apicloud",
+    "note": "通用密码",
+    "group": ""
+}]

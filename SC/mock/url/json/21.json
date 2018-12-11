@@ -1,0 +1,57 @@
+[{
+    "urlAdress": "https://alibaba.github.io/ice/",
+    "name": "前端-组件库",
+    "Webdescription": "",
+    "logo": "feibing",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://electronjs.org/",
+    "name": "Electron-桌面客户端",
+    "Webdescription": "",
+    "logo": "electron",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://cabloy.org/zh-cn/index.html",
+    "name": "Cabloyjs 顶级Javascript全栈业务开发框架",
+    "Webdescription": "",
+    "logo": "cabloyjs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://avalonjs.coding.me/",
+    "name": "Avalon 迷你 、 易用 、 高性能 的前端MVVM框架",
+    "Webdescription": "",
+    "logo": "avalon",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.gulpjs.com.cn/",
+    "name": "Gulp 用自动化构建工具增强你的工作流程",
+    "Webdescription": "",
+    "logo": "gulp",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.requirejs.cn/",
+    "name": "Require.js 中文网",
+    "Webdescription": "",
+    "logo": "requirejs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://backbonejs.org/",
+    "name": "Backbone.js 中文网",
+    "Webdescription": "",
+    "logo": "backbone",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://angular.cn/",
+    "name": "Angular.js",
+    "Webdescription": "",
+    "logo": "angular",
+    "note": "通用密码",
+    "group": ""
+}]

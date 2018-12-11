@@ -1,0 +1,22 @@
+[{
+    "urlAdress": "https://cloud.seentao.com/",
+    "name": "新道云",
+    "Webdescription": "",
+    "logo": "seendaocloud",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://daotian.seentao.com/isaas/#/home",
+    "name": "稻田教育云",
+    "Webdescription": "",
+    "logo": "daotian",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://ziyuan.seentao.com/vcres/jsp/index/index.jsp",
+    "name": "稻田-资源平台",
+    "Webdescription": "",
+    "logo": "resourseseentao",
+    "note": "通用密码",
+    "group": ""
+}]

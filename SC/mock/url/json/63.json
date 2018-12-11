@@ -1,0 +1,15 @@
+[{
+    "urlAdress": "https://www.shenjianshou.cn/index.php?r=home/index",
+    "name": "神箭手",
+    "Webdescription": "",
+    "logo": "shenjianshou",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://archive.ics.uci.edu/ml/index.php",
+    "name": "UCI-数据集",
+    "Webdescription": "",
+    "logo": "uci",
+    "note": "通用密码",
+    "group": ""
+}]
