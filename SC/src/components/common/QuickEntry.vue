@@ -139,9 +139,9 @@ export default {
         cursor: pointer;
         img{
             display: block;
-            width: 24px;
-            height: 24px;
-            margin-top: 14px;
+            width: 30px;
+            height: 30px;
+            margin-top: 11px;
         }
     }
     .T{
