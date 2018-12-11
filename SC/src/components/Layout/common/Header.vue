@@ -2,10 +2,7 @@
 	<header id="header" class="header">
 		<ChangeLanguage></ChangeLanguage>
 		<User></User>
-		<Help></Help>
-		<Add></Add>
 		<Tool></Tool>
-		<Setting></Setting>
 		<QuickEntry></QuickEntry>
 	</header>
 </template>
@@ -13,10 +10,7 @@
 <script>
 // components
 import User from '@@/common/User';
-import Help from '@@/common/Help';
 import Tool from '@@/common/Tool';
-import Setting from '@@/common/Setting';
-import Add from '@@/common/Add';
 import ChangeLanguage from '@@/common/ChangeLanguage';
 // QuickEntry
 import QuickEntry from '@@/common/QuickEntry';
@@ -26,10 +20,7 @@ export default {
 	name: 'Header',
 	components: {
 		User,
-		Help,
 		Tool,
-		Setting,
-		Add,
 		QuickEntry,
 		ChangeLanguage
 	},

@@ -63,7 +63,6 @@ export default {
 	},
 	methods: {
 		handleSelect (key, keypath) {
-			console.log(key);
 			this.$router.push({
 				name: 'MyCollection',
 				query: {

@@ -44,7 +44,7 @@ export default {
 <style lang="scss" scoped>
 .Tool {
 	height: auto;
-	margin-right: 15px;
+	margin-right: 4px;
 	cursor: pointer;
     .icomfont{
         font-size: 18px;

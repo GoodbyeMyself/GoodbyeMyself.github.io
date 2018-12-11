@@ -1,10 +1,10 @@
 <template>
 	<el-dialog
-		title="实训任务"
-		:visible.sync="this.BoardLayoutdialog"
+		title="弹出层"
+		:visible.sync="this.Dialog"
 		:close-on-click-modal='false'
 		:show-close='false'
-		custom-class='BoardLayout'
+		custom-class='Dialog'
 		width='90%'
 		top="10vh"
 	>
@@ -30,16 +30,14 @@ export default {
 	},
 	computed: {
 		...mapState({
-			BoardLayoutdialog: state => state.dialog.BoardLayout
+			Dialog: state => state.dialog.Dialog
 		})
 	},
 	created () {
 	},
 	methods: {
 		...mapActions({
-			'changeBoardLayoutdialog': 'BoardLayoutAsyn',
-			'changeProjectDetails': 'projectAsyn',
-			'changeAccessControl': 'AccessControlAsyn'
+			'changeDialog': 'DialogAsyn'
 		}),
 		closeDialog () {
 			this.$confirm('有未保存的数据, 是否继续关闭?', '提示', {
@@ -47,12 +45,8 @@ export default {
 				cancelButtonText: '取消',
 				type: 'warning'
 			}).then(() => {
-				// 清除 任务信息
-				this.changeProjectDetails({'project': {}});
-				// 关闭权限控制
-				this.changeAccessControl({'AccessControl': 'AccessControl'});
 				// 关闭 弹出层
-				this.changeBoardLayoutdialog({'BoardLayout': false});
+				this.changeDialog({'Dialog': false});
 			}).catch(() => {});
 		}
 	}
@@ -60,7 +54,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.BoardLayout {
+.Dialog {
 	height: auto;
 	.close{
 		position: absolute;

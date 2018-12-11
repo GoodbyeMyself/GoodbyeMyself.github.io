@@ -1,17 +1,17 @@
 export default {
 	state: {
-		dialog: false // 弹出层状态
+		Dialog: false // 弹出层状态
 	},
 	getters: {
 	},
 	mutations: {
-		dialog (state, dialog) {
-			state.BoardLayout = dialog;
+		Dialog (state, Dialog) {
+			state.Dialog = Dialog;
 		}
 	},
 	actions: {
-		dialog ({ commit }, { dialog }) {
-			commit('dialog', dialog);
+		DialogAsyn ({ commit }, { Dialog }) {
+			commit('Dialog', Dialog);
 		}
 	}
 };

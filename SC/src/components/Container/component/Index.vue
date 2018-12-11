@@ -20,18 +20,6 @@
 						:md="6"
 						:lg="4"
 						:xl="3"
-						@click.native="addUrl()"
-					>
-						<div class="grid-content add-content">
-							<i class='iconfont icon-plus'></i>
-						</div>
-					</el-col>
-					<el-col
-						:xs="12"
-						:sm="8"
-						:md="6"
-						:lg="4"
-						:xl="3"
 						v-for="(item, index) in urlList"
 						:key="index"
 					>
@@ -39,27 +27,6 @@
 							<div class='webName' :title='item.name'>{{ item.name }}</div>
 							<div class='logoWamp'>
 								<img :src='require("../../../assets/images/container/url/"+ item.logo +".png")' alt="">
-							</div>
-							<div class='operation'>
-								<el-dropdown @command="handleCommand" class='fr'>
-									<span class="el-dropdown-link">
-										<i class='iconfont icon-ellipsis'></i>
-									</span>
-									<el-dropdown-menu slot="dropdown">
-										<el-dropdown-item command="totop">
-											<i class='iconfont icon-totop'></i>
-											<span>置顶</span>
-										</el-dropdown-item>
-										<el-dropdown-item command="delete">
-											<i class='iconfont icon-delete'></i>
-											<span>删除</span>
-										</el-dropdown-item>
-										<el-dropdown-item command="edit">
-											<i class='iconfont icon-edit'></i>
-											<span>编辑</span>
-										</el-dropdown-item>
-									</el-dropdown-menu>
-								</el-dropdown>
 							</div>
 						</div>
 					</el-col>
@@ -110,20 +77,16 @@ export default {
 		if (this.urlList === undefined) {
 			this.urlList = URL['id1'];
 		}
-		console.log(URL);
 	},
 	methods: {
 		changeTag (id) {
-			console.log(id);
+			// console.log(id);
 		},
 		openUrl (url) {
 			window.open(url);
 		},
-		addUrl () {
-			console.log('增加网址');
-		},
 		handleCommand (command) {
-			console.log(command);
+			// console.log(command);
 		}
 	}
 };
