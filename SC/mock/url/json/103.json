@@ -12,4 +12,39 @@
     "logo": "checkBower",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "http://www.bejson.com/",
+    "name": "在线格式化代码",
+    "Webdescription": "",
+    "logo": "bejson",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://caniuse.com/",
+    "name": "Can I use 测试浏览器兼容性",
+    "Webdescription": "",
+    "logo": "canIuse",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://macacajs.github.io/",
+    "name": "轻松自动化测试解决方案",
+    "Webdescription": "",
+    "logo": "macaca",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://codepen.io/",
+    "name": "查询炫酷效果",
+    "Webdescription": "",
+    "logo": "picked",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://f2etest.net/",
+    "name": "F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案",
+    "Webdescription": "",
+    "logo": "F2etest",
+    "note": "通用密码",
+    "group": ""
 }]

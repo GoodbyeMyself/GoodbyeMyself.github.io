@@ -75,4 +75,32 @@
     "logo": "icheck",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "https://bulma.io/",
+    "name": "Bulma是一个基于Flexbox的免费开源CSS框架",
+    "Webdescription": "",
+    "logo": "BULMA",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://picturepan2.github.io/devices.css/#ipad-pro",
+    "name": "各类型机型图片",
+    "Webdescription": "",
+    "logo": "iphoneImg",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.purecss.cn/",
+    "name": "Pure.css轻量级、响应式纯css模块",
+    "Webdescription": "",
+    "logo": "pure",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://cubic-bezier.com/#.17,.67,.83,.67",
+    "name": "贝塞尔曲线",
+    "Webdescription": "",
+    "logo": "bezier",
+    "note": "通用密码",
+    "group": ""
 }]

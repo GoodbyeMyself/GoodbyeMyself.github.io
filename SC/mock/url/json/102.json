@@ -26,4 +26,18 @@
     "logo": "chuangketie",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "https://www.tuhaokuai.com/image",
+    "name": "图好快",
+    "Webdescription": "",
+    "logo": "tuhaokuai",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://tinypng.com/",
+    "name": "TinyPng-无损压缩",
+    "Webdescription": "",
+    "logo": "tinypng",
+    "note": "通用密码",
+    "group": ""
 }]
