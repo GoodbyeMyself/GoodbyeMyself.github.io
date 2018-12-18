@@ -1,15 +1,15 @@
 [{
-    "urlAdress": "https://www.baidu.com/",
-    "name": "百度一下,你就知道103",
-    "Webdescription": "百度一下,你就知道",
-    "logo": "baidu",
+    "urlAdress": "https://ready.mobi/",
+    "name": "移动设备上测试网站性能",
+    "Webdescription": "",
+    "logo": "mobiReady",
     "note": "通用密码",
     "group": ""
 }, {
-    "urlAdress": "http://fanyi.youdao.com/",
-    "name": "有道翻译",
-    "Webdescription": "有道翻译",
-    "logo": "youdao",
+    "urlAdress": "http://browsershots.org/",
+    "name": "测试浏览器兼容性",
+    "Webdescription": "",
+    "logo": "checkBower",
     "note": "通用密码",
     "group": ""
 }]

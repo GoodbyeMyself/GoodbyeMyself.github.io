@@ -124,4 +124,53 @@
     "logo": "pageTratision",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/jquery-info13720",
+    "name": "鼠标Hover效果",
+    "Webdescription": "",
+    "logo": "hover",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi13569",
+    "name": "CSS3 动画列表",
+    "Webdescription": "",
+    "logo": "css3AnimationList",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi3581",
+    "name": "便签风格列表",
+    "Webdescription": "",
+    "logo": "memo",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi4374",
+    "name": "粒子效果背景",
+    "Webdescription": "",
+    "logo": "particle",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/demo/jquery-hover-150401210311/",
+    "name": "图片Hover大法",
+    "Webdescription": "",
+    "logo": "imgHover",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi339",
+    "name": "DropDown是一个简单的下拉列表效果插件",
+    "Webdescription": "",
+    "logo": "selectList",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi7612",
+    "name": "等距网格和三维网格",
+    "Webdescription": "",
+    "logo": "3Dgezi",
+    "note": "通用密码",
+    "group": ""
 }]
