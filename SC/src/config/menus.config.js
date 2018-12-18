@@ -59,6 +59,10 @@ export default [
 			id: '105',
 			logoPath: 'code',
 			title: '常用代码'
+		}, {
+			id: '106',
+			logoPath: 'charts',
+			title: '图表绘制'
 		}]
 	}, {
 		id: '14',

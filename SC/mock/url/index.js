@@ -29,6 +29,7 @@ import id102 from './json/102.json';
 import id103 from './json/103.json';
 import id104 from './json/104.json';
 import id105 from './json/105.json';
+import id106 from './json/106.json';
 import id11 from './json/11.json';
 import id12 from './json/12.json';
 import id13 from './json/13.json';
@@ -72,6 +73,7 @@ export default {
     id103,
     id104,
     id105,
+    id106,
     id11,
     id12,
     id13,

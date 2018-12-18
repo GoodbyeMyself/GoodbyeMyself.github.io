@@ -40,4 +40,18 @@
     "logo": "iconfont",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "https://loading.io/",
+    "name": "Loading 集合",
+    "Webdescription": "",
+    "logo": "loading",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://codepen.io/designhooks/pen/vGbbgV",
+    "name": "具有动画效果的图标",
+    "Webdescription": "",
+    "logo": "Waitanimate",
+    "note": "通用密码",
+    "group": ""
 }]

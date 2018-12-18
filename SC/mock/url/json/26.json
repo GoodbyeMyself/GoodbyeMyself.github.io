@@ -61,4 +61,39 @@
     "logo": "tippy",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "http://animejs.com/",
+    "name": "Anime.js-动画",
+    "Webdescription": "",
+    "logo": "anime",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://currency.js.org/",
+    "name": "Currency.js 货币转换插件",
+    "Webdescription": "",
+    "logo": "currency",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/jquery-info12837",
+    "name": "Print 打印插件",
+    "Webdescription": "",
+    "logo": "print",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/jquery-info13029",
+    "name": "Clipboard.js 内容复制插件",
+    "Webdescription": "",
+    "logo": "Clipboard.js",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://fex.baidu.com/webuploader/",
+    "name": "Web Uploader 上传插件",
+    "Webdescription": "",
+    "logo": "webUploader",
+    "note": "通用密码",
+    "group": ""
 }]

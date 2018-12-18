@@ -68,4 +68,60 @@
     "logo": "Html5Canvas",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "https://kushagragour.in/lab/ctajs/",
+    "name": "Cta 弹出层特效",
+    "Webdescription": "",
+    "logo": "Ctajs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://bennettfeely.com/cssynth/",
+    "name": "照片墙",
+    "Webdescription": "",
+    "logo": "imgshow",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://christinecha.github.io/choreographer-js/",
+    "name": "监听滚轮滚动执行动画",
+    "Webdescription": "",
+    "logo": "Choreographer",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://dynamicsjs.com/",
+    "name": "计算运动曲线",
+    "Webdescription": "",
+    "logo": "Dynamics",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi2826",
+    "name": "通过鼠标控制圆形进度条",
+    "Webdescription": "",
+    "logo": "mouseCtrolCirle",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi3141",
+    "name": "给任意元素添加魔幻效果",
+    "Webdescription": "",
+    "logo": "magicalEffect",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/demo/sHover-master20150718/",
+    "name": "感应鼠标从哪个方向进入",
+    "Webdescription": "",
+    "logo": "sHover",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi3864",
+    "name": "3d折纸面板展开特效",
+    "Webdescription": "",
+    "logo": "pageTratision",
+    "note": "通用密码",
+    "group": ""
 }]

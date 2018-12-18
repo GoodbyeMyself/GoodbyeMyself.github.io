@@ -54,4 +54,18 @@
     "logo": "angular",
     "note": "通用密码",
     "group": ""
+}, {
+    "urlAdress": "https://svgjs.com/",
+    "name": "绘画Svg动画",
+    "Webdescription": "",
+    "logo": "Svg",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://thednp.github.io/kute.js/index.html",
+    "name": "KUTE.js是一个Javascript动画引擎",
+    "Webdescription": "",
+    "logo": "KUTE",
+    "note": "通用密码",
+    "group": ""
 }]

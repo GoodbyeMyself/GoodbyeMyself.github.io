@@ -1,0 +1,141 @@
+[{
+    "urlAdress": "https://datavizproject.com/",
+    "name": "DVP 高级图表绘制",
+    "Webdescription": "",
+    "logo": "DVP",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.pixijs.com/",
+    "name": "超快的 HTML5 2D WebGL 渲染引擎",
+    "Webdescription": "",
+    "logo": "PixiJS",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://nvd3.org/index.html",
+    "name": "NVD3 为金融行业 提供强大的图表分析功能",
+    "Webdescription": "",
+    "logo": "NVD3",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://c3js.org/",
+    "name": "C3.js 基于D3的可重用图表库",
+    "Webdescription": "",
+    "logo": "C3",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://gionkunz.github.io/chartist-js/index.html",
+    "name": "CHARTIST.js 简单的响应式图表",
+    "Webdescription": "",
+    "logo": "chartist",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.chartjs.org/",
+    "name": "chart.js 绘制图表带动画",
+    "Webdescription": "",
+    "logo": "chartjs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.taucharts.com/",
+    "name": "taucharts 灵活的javascript图表库，用于数据探索",
+    "Webdescription": "",
+    "logo": "taucharts",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://unsplash.github.io/react-trend/",
+    "name": "React.js的简单，优雅的趋势图。",
+    "Webdescription": "",
+    "logo": "ReactTrend",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://canvas-gauges.com/",
+    "name": "canvas-gauges 各类仪表图",
+    "Webdescription": "",
+    "logo": "gauges",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://square.github.io/cubism/",
+    "name": "时间序列可视化",
+    "Webdescription": "",
+    "logo": "Cubism",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://carto.com/#/products",
+    "name": "将位置数据转化为业务成果",
+    "Webdescription": "",
+    "logo": "CARTO",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://dygraphs.com/",
+    "name": "密集数据集处理",
+    "Webdescription": "",
+    "logo": "Dygraphs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.rgraph.net/",
+    "name": "RGraph 各种模式的图表",
+    "Webdescription": "",
+    "logo": "rgraph",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://leafletjs.com/",
+    "name": "移动设备的交互式地图",
+    "Webdescription": "",
+    "logo": "leafletjs",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://plot.ly/javascript/",
+    "name": "plotly.js 建立在d3.js和stack.gl之上，是一个高级的声明性图表库",
+    "Webdescription": "",
+    "logo": "plotly",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://d3js.org/",
+    "name": "D3.js",
+    "Webdescription": "",
+    "logo": "D3",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://www.hcharts.cn/",
+    "name": "HIGHCHARTS 让数据可视化更简单,兼容 IE6+、完美支持移动端、图表类型丰富、方便快捷的 HTML5 交互性图表库",
+    "Webdescription": "",
+    "logo": "HIGHCHARTS",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://echarts.baidu.com/",
+    "name": "Echarts.js",
+    "Webdescription": "",
+    "logo": "echarts",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://arborjs.org/",
+    "name": "Arbor 基于矢量创建动态的连接图",
+    "Webdescription": "",
+    "logo": "arbor",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://circos.ca/",
+    "name": "可视化基因组数据",
+    "Webdescription": "",
+    "logo": "circos",
+    "note": "通用密码",
+    "group": ""
+}]

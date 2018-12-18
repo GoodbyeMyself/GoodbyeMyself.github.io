@@ -19,4 +19,46 @@
     "logo": "hotcss",
     "note": "",
     "group": ""
+}, {
+    "urlAdress": "http://bouncejs.com/",
+    "name": "Bounce css3动画设计",
+    "Webdescription": "",
+    "logo": "Bounce",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "https://indamix.github.io/real-shadow/#/box/",
+    "name": "shaow阴影 跟随鼠标方向改变",
+    "Webdescription": "",
+    "logo": "realShadow",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "http://snapsvg.io/",
+    "name": "Snap.svg 适用于现代网络的JavaScript SVG库",
+    "Webdescription": "",
+    "logo": "SnapSvg",
+    "note": "",
+    "group": ""
+}, {
+    "urlAdress": "http://demo.jb51.net/js/2016/css_magic/",
+    "name": "magic-带64种动画效果的CSS3动画库",
+    "Webdescription": "",
+    "logo": "MAGIC",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "https://daneden.github.io/animate.css/",
+    "name": "Animate.css",
+    "Webdescription": "",
+    "logo": "Animate",
+    "note": "通用密码",
+    "group": ""
+}, {
+    "urlAdress": "http://www.jq22.com/yanshi3594",
+    "name": "css loading动画",
+    "Webdescription": "",
+    "logo": "cssLoading",
+    "note": "通用密码",
+    "group": ""
 }]
